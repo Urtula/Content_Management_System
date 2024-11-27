@@ -1,0 +1,573 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YMK\\source\\repos\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\interfaces\\icontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\interfaces\\icontentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.infastructure\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|solutionrelative:cms.infastructure\\repositories\\contentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\services\\contentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\interfaces\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\interfaces\\icontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\entities\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\entities\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.infastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|solutionrelative:cms.infastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\entities\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\entities\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.infastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|solutionrelative:cms.infastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.infastructure\\data\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|solutionrelative:cms.infastructure\\data\\cmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C1C470-128D-4C9C-BCC5-AC8379B99F2F}|CMS.Utilities\\CMS.Utilities.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.utilities\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C1C470-128D-4C9C-BCC5-AC8379B99F2F}|CMS.Utilities\\CMS.Utilities.csproj|solutionrelative:cms.utilities\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\dto\\contentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\dto\\contentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\mappings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\mappings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\dto\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\dto\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.domain\\enums\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6CB5BD-7168-405F-94DC-3601BDD90D9D}|CMS.Domain\\CMS.Domain.csproj|solutionrelative:cms.domain\\enums\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\migrations\\20241126014000_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\migrations\\20241126014000_updatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms\\migrations\\cmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F133D1FE-861D-4770-B3A6-ACFC12317656}|CMS\\CMS.csproj|solutionrelative:cms\\migrations\\cmsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.infastructure\\cms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{635AD1AC-3D13-42F0-B71E-E5FEBDE06054}|CMS.Infastructure\\CMS.Infrastructure.csproj|solutionrelative:cms.infastructure\\cms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|c:\\users\\ymk\\source\\repos\\cms\\cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F589F38-6653-405B-AC59-65AFCDD2FC94}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CMSDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Data\\CMSDbContext.cs",
+              "RelativeDocumentMoniker": "CMS.Infastructure\\Data\\CMSDbContext.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Data\\CMSDbContext.cs",
+              "RelativeToolTip": "CMS.Infastructure\\Data\\CMSDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:10:48.55Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentService.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Services\\ContentService.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Services\\ContentService.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Services\\ContentService.cs",
+              "RelativeToolTip": "CMS.Application\\Services\\ContentService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIAwwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:09:47.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IContentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\IContentRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Interfaces\\IContentRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\IContentRepository.cs",
+              "RelativeToolTip": "CMS.Domain\\Interfaces\\IContentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:24:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CMS.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:25:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "CMS.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:25:22.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CMS.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:07:00.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "CMS.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:09:40.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "CMS.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwFoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:37:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:45:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "CMS.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:34:52.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Program.cs",
+              "RelativeDocumentMoniker": "CMS\\Program.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Program.cs",
+              "RelativeToolTip": "CMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:11:09.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:11:06.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContentService.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Interfaces\\IContentService.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Interfaces\\IContentService.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Interfaces\\IContentService.cs",
+              "RelativeToolTip": "CMS.Application\\Interfaces\\IContentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:09:11.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Repositories\\ContentRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Infastructure\\Repositories\\ContentRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Repositories\\ContentRepository.cs",
+              "RelativeToolTip": "CMS.Infastructure\\Repositories\\ContentRepository.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T16:27:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Content.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\Content.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Entities\\Content.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\Content.cs",
+              "RelativeToolTip": "CMS.Domain\\Entities\\Content.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:07:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Infastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "CMS.Infastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:20:25.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CMS.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:08:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Variant.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\Variant.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Entities\\Variant.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\Variant.cs",
+              "RelativeToolTip": "CMS.Domain\\Entities\\Variant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:22:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Infastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CMS.Infastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:43:20.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Mappings\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\Mappings\\MapsterConfig.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\Mappings\\MapsterConfig.cs",
+              "RelativeToolTip": "CMS.Application\\Mappings\\MapsterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:27:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VariantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\VariantDTO.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\DTO\\VariantDTO.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\VariantDTO.cs",
+              "RelativeToolTip": "CMS.Application\\DTO\\VariantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:25:24.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\DTO\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "CMS.Application\\DTO\\CategoryDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T19:35:00.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "CMS.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:07:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CacheManager.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Utilities\\CacheManager.cs",
+              "RelativeDocumentMoniker": "CMS.Utilities\\CacheManager.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Utilities\\CacheManager.cs",
+              "RelativeToolTip": "CMS.Utilities\\CacheManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:37:16.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\ContentDTO.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\DTO\\ContentDTO.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\ContentDTO.cs",
+              "RelativeToolTip": "CMS.Application\\DTO\\ContentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:24:55.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "CMS.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:20:03.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CMS\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CMS\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:11:01.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "CMS.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "CMS.Application\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:24:50.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\appsettings.json",
+              "RelativeDocumentMoniker": "CMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\appsettings.json",
+              "RelativeToolTip": "CMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T20:44:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Languages.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Enums\\Languages.cs",
+              "RelativeDocumentMoniker": "CMS.Domain\\Enums\\Languages.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Domain\\Enums\\Languages.cs",
+              "RelativeToolTip": "CMS.Domain\\Enums\\Languages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:08:05.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241126014000_UpdateModel.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Migrations\\20241126014000_UpdateModel.cs",
+              "RelativeDocumentMoniker": "CMS\\Migrations\\20241126014000_UpdateModel.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Migrations\\20241126014000_UpdateModel.cs",
+              "RelativeToolTip": "CMS\\Migrations\\20241126014000_UpdateModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:40:09.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CMSDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Migrations\\CMSDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CMS\\Migrations\\CMSDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS\\Migrations\\CMSDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CMS\\Migrations\\CMSDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:54:01.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CMS.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\CMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CMS.Infastructure\\CMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Infastructure\\CMS.Infrastructure.csproj",
+              "RelativeToolTip": "CMS.Infastructure\\CMS.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:41:16.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CMS.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\CMS.Application.csproj",
+              "RelativeDocumentMoniker": "CMS.Application\\CMS.Application.csproj",
+              "ToolTip": "C:\\Users\\YMK\\source\\repos\\CMS\\CMS.Application\\CMS.Application.csproj",
+              "RelativeToolTip": "CMS.Application\\CMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T20:03:07.593Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

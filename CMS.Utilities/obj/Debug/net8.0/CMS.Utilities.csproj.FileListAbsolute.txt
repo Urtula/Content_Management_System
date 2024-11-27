@@ -1,0 +1,12 @@
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\bin\Debug\net8.0\CMS.Utilities.deps.json
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\bin\Debug\net8.0\CMS.Utilities.dll
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\bin\Debug\net8.0\CMS.Utilities.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.csproj.AssemblyReference.cache
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.AssemblyInfoInputs.cache
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.AssemblyInfo.cs
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.dll
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\refint\CMS.Utilities.dll
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\CMS.Utilities.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Utilities\obj\Debug\net8.0\ref\CMS.Utilities.dll

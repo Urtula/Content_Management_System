@@ -1,0 +1,17 @@
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Application.deps.json
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Application.dll
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Application.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Domain.dll
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Domain.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.AssemblyReference.cache
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.AssemblyInfoInputs.cache
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.AssemblyInfo.cs
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Appl.44E07803.Up2Date
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.dll
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\refint\CMS.Application.dll
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\CMS.Application.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Application\obj\Debug\net8.0\ref\CMS.Application.dll
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Utilities.dll
+C:\Users\YMK\source\repos\CMS\CMS.Application\bin\Debug\net8.0\CMS.Utilities.pdb

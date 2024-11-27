@@ -1,0 +1,15 @@
+C:\Users\YMK\source\repos\CMS\CMS.Domain\bin\Debug\net8.0\CMS.Domain.deps.json
+C:\Users\YMK\source\repos\CMS\CMS.Domain\bin\Debug\net8.0\CMS.Domain.dll
+C:\Users\YMK\source\repos\CMS\CMS.Domain\bin\Debug\net8.0\CMS.Domain.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.AssemblyInfoInputs.cache
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.AssemblyInfo.cs
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.dll
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\refint\CMS.Domain.dll
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\ref\CMS.Domain.dll
+C:\Users\YMK\source\repos\CMS\CMS.Domain\bin\Debug\net8.0\CMS.Utilities.dll
+C:\Users\YMK\source\repos\CMS\CMS.Domain\bin\Debug\net8.0\CMS.Utilities.pdb
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.csproj.AssemblyReference.cache
+C:\Users\YMK\source\repos\CMS\CMS.Domain\obj\Debug\net8.0\CMS.Domain.csproj.Up2Date
